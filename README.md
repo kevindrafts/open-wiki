@@ -1,6 +1,6 @@
 # Open Wiki
 
-Open Wiki is a public, Markdown-first project for turning useful public internet knowledge into durable, interlinked wikis.
+Open Wiki is a Markdown-first project for turning useful public internet knowledge into durable, interlinked wikis.
 
 The first corpus is **Koerner Office**: practical business ideas, AI-enabled services, side hustles, boring businesses, distribution patterns, and implementation playbooks extracted from public YouTube videos.
 
@@ -10,7 +10,6 @@ The first corpus is **Koerner Office**: practical business ideas, AI-enabled ser
 - [AI-Enabled Service Businesses](wikis/koerner-office/wiki/ai-enabled-service-businesses.md)
 - [Food and Beverage Concessions](wikis/koerner-office/wiki/food-and-beverage-concessions.md)
 - [Raw Land Wholesaling](wikis/koerner-office/wiki/raw-land-wholesaling.md)
-- [First public post draft](outputs/first-public-post.md)
 
 ## What this is
 
@@ -35,6 +34,7 @@ The goal is not to summarize everything. The goal is to compile reusable pattern
 - Not a replacement for the original creators' work
 - Not legal, financial, or business advice
 - Not a claim that every source is correct
+- Not a content-marketing wrapper around thin notes
 
 The repo should link back to original sources, use short timestamped citations, and avoid publishing full copyrighted transcripts by default.
 
@@ -58,19 +58,18 @@ wikis/
     episodes/          # one source note per video, no full transcript dumps
     wiki/              # durable topic pages
     log.md             # chronological ingest/query/lint log
-outputs/               # public post drafts, weekly summaries, artifacts
 synthesis/             # cross-channel synthesis pages later
 scripts/               # helper scripts later
 ```
 
-## Publishing loop
+## Build order
 
-Each weekly pass should produce:
+This repo should become useful before it becomes promotional.
 
-1. new or updated episode notes
-2. updated wiki pages
-3. one public artifact worth sharing
-4. a short post draft linking to the artifact
+1. Ingest enough sources to make the wiki meaningfully browsable.
+2. Thicken topic pages with repeated patterns across multiple episodes.
+3. Add cross-source synthesis only after the source-specific wiki has enough density.
+4. Publish/share only when the wiki feels like a useful artifact on its own.
 
 ## Contributing / source requests
 
@@ -80,4 +79,4 @@ Open an issue with a public source suggestion. Good suggestions include a YouTub
 
 The future of saved content is not bookmarking. It is compilation.
 
-Raw sources are the dirt. Wiki pages are the crops. Public artifacts are the meal.
+Raw sources are the dirt. Wiki pages are the crops.

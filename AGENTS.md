@@ -25,6 +25,6 @@ This repository is optimized for humans and AI agents: plain files, stable links
 3. **Wiki pages**: durable topic pages maintained over time.
 4. **Synthesis pages**: cross-corpus patterns and implementation ideas.
 
-## Weekly Output Rule
+## Build-First Rule
 
-Every meaningful ingest should try to produce a shareable artifact: a useful wiki page, pattern roundup, implementation idea, or public note draft.
+Prioritize making the wiki thick and useful before creating promotional artifacts. Do not add public post drafts, weekly content drafts, or marketing wrappers to the repo unless explicitly requested. Shareable value should come from strong wiki pages and synthesis, not thin outputs.
