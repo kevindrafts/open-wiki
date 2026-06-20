@@ -26,3 +26,15 @@
 - Updated `manifest.csv` and `INDEX.md`.
 - Flagged extraordinary model/government claims as requiring independent verification.
 
+## [2026-06-20] ingest | Five-video Koerner Office batch
+
+- Ingested five additional 2026 episode transcripts:
+  - `LGkcTUfySDU` backyard movie theater/event rentals
+  - `trdHxY1UMF0` AI voice cloning services
+  - `HcR7Wqgi4lU` concrete floor coatings/local home service business
+  - `J7ZNaOeXCAA` PR-led AI consulting and build-in-public distribution
+  - `DKqQe0MqDTs` home-service AI lead capture
+- Created five episode notes in `episodes/`.
+- Created five topic pages in `wiki/`.
+- Updated `INDEX.md` and `manifest.csv`.
+
