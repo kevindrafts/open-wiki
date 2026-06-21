@@ -38,3 +38,10 @@
 - Created five topic pages in `wiki/`.
 - Updated `INDEX.md` and `manifest.csv`.
 
+## [2026-06-20] ingest | Nine-video Koerner Office batch
+
+- Ingested nine additional 2026 episode transcripts from 2026-06-01 through 2026-05-14.
+- Added episode notes for AI agencies/agents, white-label vertical SaaS, resale/liquidation, AI faceless YouTube, tiny tools, credit-card points consulting, and government-contract brokering.
+- Added or updated topic pages for the new recurring patterns.
+- Updated `INDEX.md` and `manifest.csv`.
+
