@@ -39,11 +39,19 @@ This index catalogs the Koerner Office open wiki: practical business ideas, AI-e
 - [[sales-and-distribution-playbooks]] - Reusable routes to customers: proof-first selling, borrowed traffic, gifts, referrals, and funnels.
 - [[simple-calculator-websites]] - Narrow calculator, quiz, and estimator sites used for SEO, email capture, affiliate, or lead-generation plays.
 - [[tiny-tools-and-micro-apps]] - Small apps, utilities, calculators, API wrappers, and narrow software products that can be built and sold quickly.
+- [[ai-content-research-automation]] - n8n/RSS/Sheets/Gmail workflows that monitor niche sources and surface content ideas.
+- [[ai-website-builders]] - AI-generated local websites, lead-capture pages, and fast web-design agency fulfillment.
+- [[creative-seller-financing]] - Low-cash acquisition structures including seller notes, carrybacks, master leases, subject-to debt, and delayed down payments.
+- [[franchise-ownership]] - Franchise selection, diligence, financing, operating moats, and channel-backed franchise concepts.
+- [[junk-removal-businesses]] - Local hauling businesses using realtor referrals, SEO, resale, scrap, and professional trust-building.
+- [[newsletter-businesses]] - Owned-audience newsletter monetization through ads, paid subscriptions, Boosts, services, products, and events.
+- [[openclaw-personal-ai-agents]] - Personal/company second-brain agents, memory, retrieval, data cleanup, and executive AI setup services.
+- [[snail-mail-subscriptions]] - Tangible recurring mail clubs, paper goods, unboxing loops, archives, and B2B relationship mailers.
 - [[white-label-vertical-saas]] - Niche software bundles and white-label SaaS offers sold to specific verticals with recurring pricing.
 
 ## Source coverage
 
-Initial source discovery found 72 public 2026 videos in `manifest.csv`. 37 episode notes are currently present; 10 attempted sources are transcript-blocked from this environment; 25 remain in backlog.
+Initial source discovery found 72 public 2026 videos in `manifest.csv`. 49 episode notes are currently present; 10 attempted sources are transcript-blocked from this environment; 13 remain in backlog.
 
 ### Ingested episode notes
 
@@ -84,6 +92,18 @@ Initial source discovery found 72 public 2026 videos in `manifest.csv`. 37 episo
 - `episodes/2026-04-02-this-ai-finds-cheap-products-you-can-sell-for-5x-more.md`
 - `episodes/2026-03-31-he-found-a-way-to-make-1k-hour-from-his-phone.md`
 - `episodes/2026-03-29-he-turned-400-into-2-5m-using-ai-no-coding.md`
+- `episodes/2026-03-03-the-most-overlooked-way-to-get-rich-proven-blueprint.md`
+- `episodes/2026-02-28-i-tried-openclaw-for-a-month-and-im-never-going-back.md`
+- `episodes/2026-02-26-the-most-underrated-way-to-make-50k-month.md`
+- `episodes/2026-02-24-make-500k-year-with-one-email-a-week.md`
+- `episodes/2026-02-22-laid-off-2-days-before-christmas-now-he-makes-60k-month-reselling.md`
+- `episodes/2026-02-20-7-low-cost-business-ideas-for-beginners-in-2026.md`
+- `episodes/2026-02-18-now-is-the-best-time-to-make-money-with-content-ai-tutorial.md`
+- `episodes/2026-02-17-i-built-an-ai-agent-in-5-minutes-and-sold-it-live.md`
+- `episodes/2026-02-14-she-makes-1k-day-sending-letters.md`
+- `episodes/2026-02-12-ai-is-stealing-these-jobs-heres-how-to-profit.md`
+- `episodes/2026-02-10-how-to-buy-big-things-with-little-money.md`
+- `episodes/2026-02-09-people-are-selling-one-prompt-websites-for-1k-full-tutorial.md`
 
 ## Backlog
 

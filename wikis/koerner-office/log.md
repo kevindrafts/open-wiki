@@ -65,3 +65,11 @@
 - All ten attempts returned `IpBlocked`; direct YouTube timedtext and yt-dlp subtitle download checks also returned HTTP 429 from this environment.
 - Marked the ten sources as `transcript_blocked` in `manifest.csv` and did not create episode notes or topic updates without transcript-backed evidence.
 - Updated `INDEX.md` and README source counts to distinguish ingested, transcript-blocked, and remaining-backlog sources.
+
+## [2026-06-21] ingest | Twelve-video Koerner Office batch
+
+- Fetched transcripts for the next backlog rows from 2026-03-03 through 2026-02-09 using `youtube-transcript-api`; all twelve were accessible from this environment.
+- Ingested twelve episode notes covering franchise ownership, OpenClaw/personal agents, junk removal, newsletters, liquidation resale, low-cost food ideas, n8n content research automation, AI voice-agent prospecting, snail-mail subscriptions, AI-disruption service ideas, creative seller financing, and AI website builders.
+- Created eight new topic pages: franchise ownership, OpenClaw personal AI agents, junk removal businesses, newsletter businesses, AI content research automation, snail-mail subscriptions, creative seller financing, and AI website builders.
+- Updated `manifest.csv`, `INDEX.md`, and README ingest counts.
+
