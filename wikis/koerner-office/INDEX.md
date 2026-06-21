@@ -43,7 +43,7 @@ This index catalogs the Koerner Office open wiki: practical business ideas, AI-e
 
 ## Source coverage
 
-Initial source discovery found 72 public 2026 videos in `manifest.csv`. 37 episode notes are currently present; 35 remain in backlog.
+Initial source discovery found 72 public 2026 videos in `manifest.csv`. 37 episode notes are currently present; 10 attempted sources are transcript-blocked from this environment; 25 remain in backlog.
 
 ### Ingested episode notes
 
@@ -88,3 +88,18 @@ Initial source discovery found 72 public 2026 videos in `manifest.csv`. 37 episo
 ## Backlog
 
 See `manifest.csv` for all discovered 2026 videos and ingestion status.
+
+### Transcript-blocked attempted sources
+
+The next ten backlog videos from 2026-03-26 through 2026-03-06 were attempted on 2026-06-21, but `youtube-transcript-api` returned `IpBlocked` and YouTube timedtext / yt-dlp subtitle downloads returned HTTP 429 from this environment. No episode notes were created because transcript-backed source notes could not be verified.
+
+- `2026-03-26` `CVlZdvDthOM` — How AI Makes Facebook Marketplace a Gold Mine
+- `2026-03-23` `Qv-dw57pFNA` — They Banned My $35K/Month Page So I Started a Business
+- `2026-03-20` `l0Vqm0ZIySc` — He Asked AI To Make Money. It Did.
+- `2026-03-19` `L15oL4b3LT4` — He Turns Abandoned Driving Ranges Into Cash Machines
+- `2026-03-17` `t_y8SelBm_s` — The Simplest $7M Business You've Never Heard Of
+- `2026-03-15` `lfvyfRGIVHE` — How to Make $1.6K/Day on Facebook Marketplace
+- `2026-03-12` `mAyZZc_DjSE` — Stop Buying Things. Start Buying Assets that Pay for Themselves
+- `2026-03-10` `CKRglRCeVDM` — How I Use Web Scraping to Find Products That Sell for 20x the Price
+- `2026-03-08` `N0NceZbY2_4` — The Easiest $3K/Day Business Nobody Is Talking About
+- `2026-03-06` `iuQ_Y-qSz78` — The Most Overlooked $13K/Day Business Anyone Can Start

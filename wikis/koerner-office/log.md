@@ -58,3 +58,10 @@
 - Added episode notes for AI audits, direct-mail co-op ads, laptop-first idea generation, simple calculator websites, AI clipping SaaS/agent workflows, government-contract finder apps, agricultural drone services, missed-call AI text-back, AI product sourcing, live-selling liquidation, and fractional AI implementation services.
 - Created topic pages for AI audits, direct-mail co-op advertising, simple calculator websites, agricultural drone services, AI product sourcing, live-selling liquidation, and fractional AI implementation services.
 - Updated related topic pages, `INDEX.md`, `manifest.csv`, and README ingest counts.
+
+## [2026-06-21] blocked | Ten-video Koerner Office transcript attempt
+
+- Attempted the next ten backlog videos from 2026-03-26 through 2026-03-06 using `youtube-transcript-api`.
+- All ten attempts returned `IpBlocked`; direct YouTube timedtext and yt-dlp subtitle download checks also returned HTTP 429 from this environment.
+- Marked the ten sources as `transcript_blocked` in `manifest.csv` and did not create episode notes or topic updates without transcript-backed evidence.
+- Updated `INDEX.md` and README source counts to distinguish ingested, transcript-blocked, and remaining-backlog sources.
