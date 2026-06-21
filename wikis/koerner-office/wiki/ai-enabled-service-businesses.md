@@ -60,3 +60,7 @@ Related: [[local-service-lead-generation]], [[sales-and-distribution-playbooks]]
 ## Sources
 
 - `episodes/2026-06-20-5-ways-to-make-money-from-an-ai-the-government-fears.md`
+- `episodes/2026-04-17-the-easiest-way-to-actually-make-money-with-ai.md`
+- `episodes/2026-04-12-you-only-need-a-laptop-to-start-this-business.md`
+- `episodes/2026-04-03-this-might-be-the-easiest-way-to-sell-ai-to-businesses.md`
+- `episodes/2026-03-29-he-turned-400-into-2-5m-using-ai-no-coding.md`

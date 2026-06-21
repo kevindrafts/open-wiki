@@ -25,3 +25,5 @@ Related: [[productized-service-businesses]], [[rank-and-rent-local-lead-generati
 - Koerner Office, "[The Most Profitable Solo Business You've Never Heard Of](https://www.youtube.com/watch?v=bAzg8BugEVY)" (2026-04-21).
 - Koerner Office, "[The Most Passive $104K/M Online Business You've Never Heard Of](https://www.youtube.com/watch?v=xUZYy3hCRUM)" (2026-05-06).
 - Koerner Office, "[He Spends 1 Hour a Week on This Business](https://www.youtube.com/watch?v=cFr-bNBsPb8)" (2026-05-03).
+- Koerner Office, "[The Most Profitable Business Everyone Overlooks](https://www.youtube.com/watch?v=eD2AMYAR8tA)" (2026-04-06).
+- Koerner Office, "[He Found a Way to Make $1K/Hour From His Phone](https://www.youtube.com/watch?v=YqCfQ0APU2U)" (2026-03-31).

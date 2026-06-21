@@ -40,3 +40,4 @@ From `episodes/2026-06-04-the-simplest-ai-side-hustle-for-beginners.md`: build a
 ## Sources
 
 - `episodes/2026-06-04-the-simplest-ai-side-hustle-for-beginners.md`
+- Koerner Office, "[This Might Be the Easiest Way to Sell AI to Businesses](https://www.youtube.com/watch?v=g4-3AxelI_Y)" (2026-04-03). Key timestamps: 00:00 missed-call problem; 03:00 CRM workflow; 09:00 dogfooding; 12:00 ringless voicemail prospecting.

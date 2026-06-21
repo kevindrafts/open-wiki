@@ -59,3 +59,6 @@ A category-specific creator database or newsletter for brands that want small cr
 ## Sources
 
 - `episodes/2026-05-19-forget-big-apps-these-tiny-tools-are-making-millions.md`
+- `episodes/2026-04-10-the-most-passive-online-side-hustle-ive-ever-seen.md`
+- `episodes/2026-04-07-i-built-an-app-the-government-doesnt-want-you-to-see.md`
+- `episodes/2026-04-02-this-ai-finds-cheap-products-you-can-sell-for-5x-more.md`

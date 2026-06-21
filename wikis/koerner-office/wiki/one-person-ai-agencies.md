@@ -61,3 +61,4 @@ From `episodes/2026-05-28-ai-agents-are-finally-easy-to-set-up.md`: a simple hos
 - `episodes/2026-05-28-ai-agents-are-finally-easy-to-set-up.md`
 - `episodes/2026-05-30-i-told-an-ai-agent-to-make-me-money-it-did.md`
 - `episodes/2026-06-01-how-a-regular-guy-started-a-1-person-business-with-ai.md`
+- Koerner Office, "[He Turned $400 Into $2.5M Using AI (No Coding)](https://www.youtube.com/watch?v=y_ON1Qbb274)" (2026-03-29).

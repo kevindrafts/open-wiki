@@ -51,3 +51,10 @@
 - Added episode notes for Claude skills products, content-to-lead funnels, nitro/iced coffee carts, rank-and-rent local lead generation, indoor golf simulator memberships, physical gifting for sales, farmers-market product launches, productized services, and corporate gifting.
 - Created or updated topic pages for recurring sales, distribution, local lead-generation, one-person business, boring business, concession, productized service, and gifting patterns.
 - Updated `INDEX.md`, `manifest.csv`, and README ingest counts.
+
+## [2026-06-21] ingest | Eleven-video Koerner Office batch
+
+- Ingested eleven additional 2026 episode transcripts from 2026-04-17 through 2026-03-29 using `youtube-transcript-api`.
+- Added episode notes for AI audits, direct-mail co-op ads, laptop-first idea generation, simple calculator websites, AI clipping SaaS/agent workflows, government-contract finder apps, agricultural drone services, missed-call AI text-back, AI product sourcing, live-selling liquidation, and fractional AI implementation services.
+- Created topic pages for AI audits, direct-mail co-op advertising, simple calculator websites, agricultural drone services, AI product sourcing, live-selling liquidation, and fractional AI implementation services.
+- Updated related topic pages, `INDEX.md`, `manifest.csv`, and README ingest counts.

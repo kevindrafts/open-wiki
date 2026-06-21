@@ -58,3 +58,5 @@ From `episodes/2026-05-24-the-best-side-hustle-for-beginners-any-age.md`: VCRs, 
 ## Sources
 
 - `episodes/2026-05-24-the-best-side-hustle-for-beginners-any-age.md`
+- `episodes/2026-03-31-he-found-a-way-to-make-1k-hour-from-his-phone.md`
+- `episodes/2026-04-02-this-ai-finds-cheap-products-you-can-sell-for-5x-more.md`

@@ -50,3 +50,4 @@ From `episodes/2026-05-14-how-anyone-can-make-10k-month-from-the-government.md`:
 ## Sources
 
 - `episodes/2026-05-14-how-anyone-can-make-10k-month-from-the-government.md`
+- Koerner Office, "[I Built an App the Government Doesn't Want You to See](https://www.youtube.com/watch?v=HIYiSVvN3RA)" (2026-04-07). Key timestamps: 00:00 SAM.gov pain point; 03:00 generated app/search/alerts; 06:00 pitch deck and publish step.
