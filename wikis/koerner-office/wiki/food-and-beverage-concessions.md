@@ -25,3 +25,5 @@ Food and beverage concessions are simple, high-throughput local businesses that 
 ## Sources
 
 - [[2026-06-18-he-made-6k-in-3-hours-selling-lemonade]] - Booze Lemonade case study: fresh-squeezed lemonade sold at farmers markets, events, cart rentals, and concession partners, with frozen bananas as an adjacent catering product.
+- Koerner Office, "[The Simplest Business in a Box Anyone Can Start](https://www.youtube.com/watch?v=FE7PZG_V7qE)" (2026-05-08). Key timestamps: 15:14 kegged coffee; 33:31 menu simplicity; 36:34 unit economics; 39:37 low downside tests; 48:53 location ideas.
+- Koerner Office, "[He Makes $20k/Month on the Weekends](https://www.youtube.com/watch?v=2iqowbg2CT8)" (2026-04-24). Key timestamps: 06:03 market setup; 15:11 packaged pizza mix; 27:18 sampling and filming; 30:22 market selection.

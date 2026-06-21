@@ -45,7 +45,7 @@ The repo should link back to original sources, use short timestamped citations, 
 - Channel: [Chris Koerner on The Koerner Office Podcast](https://www.youtube.com/@thekoerneroffice)
 - Initial scope: public videos from 2026-01-01 onward
 - Discovery status: 72 public 2026 videos found, plus 1 skipped members-only item in the first 120 channel entries
-- Ingest status: 17 ingested, 55 in backlog; see [`wikis/koerner-office/manifest.csv`](wikis/koerner-office/manifest.csv)
+- Ingest status: 26 ingested, 46 in backlog; see [`wikis/koerner-office/manifest.csv`](wikis/koerner-office/manifest.csv)
 
 ## Repo structure
 

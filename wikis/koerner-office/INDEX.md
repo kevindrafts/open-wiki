@@ -8,23 +8,35 @@ This index catalogs the Koerner Office open wiki: practical business ideas, AI-e
 - [[ai-enabled-service-businesses]] - Service businesses where AI reduces research, fulfillment, admin, content, prospecting, or operations work.
 - [[ai-faceless-youtube-channels]] - AI-assisted faceless video channels using generated scripts, voiceovers, visuals, editing workflows, and monetization paths.
 - [[ai-voice-cloning-services]] - Voice cloning, multilingual audio, voicemail packages, dubbing, and local-business voiceover services.
+- [[boring-business-ideas]] - Simple local/operational businesses that win through execution, location, packaging, or tedious logistics.
+- [[claude-skills-products]] - Packaged Markdown/Claude skill assets that productize repeated AI workflows and subject-matter expertise.
+- [[content-to-lead-funnels]] - Short-form content, comment triggers, DM automation, lead magnets, and follow-up workflows.
+- [[corporate-gifting-services]] - Sourcing, personalization, packing, and shipping of prospect/client/team gifts.
 - [[credit-card-points-consulting]] - Consulting and concierge services that help households or businesses optimize credit-card points and travel rewards.
 - [[event-rental-businesses]] - Equipment-backed local event businesses: backyard movies, indoor inflatable theaters, dance floors, and party packages.
+- [[farmers-market-product-launches]] - Market-based validation and launch paths for packaged products and food/beverage concepts.
 - [[food-and-beverage-concessions]] - Simple concession, market, festival, catering, cart-rental, and venue food/beverage businesses.
 - [[government-contract-brokering]] - Finding government opportunities, matching them with subcontractors, and coordinating bids/fulfillment while respecting compliance constraints.
 - [[home-service-ai-lead-capture]] - AI voice agents, quote tools, and local lead-capture systems for urgent home-service niches.
+- [[indoor-golf-simulator-memberships]] - Self-serve indoor golf simulator facilities with recurring memberships and low operating hours.
 - [[local-home-service-businesses]] - Premium local home services using visual proof, reviews, ads, referrals, and repeatable crew workflows.
+- [[local-service-lead-generation]] - SEO, AI, direct-mail, and funnel systems that generate tracked calls/leads for service providers.
 - [[local-website-direct-mail]] - Local website or QR-code direct-mail systems that drive physical-world prospects into simple online funnels.
 - [[one-person-ai-agencies]] - Solo AI implementation/training agencies sold through warm networks, demos, and narrow workflow outcomes.
+- [[one-person-businesses]] - Narrow solo businesses using productization, automation, assets, or recurring revenue to avoid large teams.
+- [[physical-gifting-for-sales]] - Cakes, gift boxes, and other offline objects used to win B2B attention and meetings.
 - [[pr-led-ai-consulting]] - AI consulting/training businesses distributed through local news, PR, storytelling, and building in public.
+- [[productized-service-businesses]] - Fixed-scope service subscriptions and repeatable offers such as DesignJoy-style design.
+- [[rank-and-rent-local-lead-generation]] - Ranked local websites rented to service providers through tracked calls and flat monthly fees.
 - [[raw-land-wholesaling]] - Builder-first vacant land assignment model: source buildable lots for home builders and earn the contract spread.
 - [[resale-and-liquidation]] - Beginner-friendly resale, used electronics, liquidation, supplier relationships, defect control, and buyer networks.
+- [[sales-and-distribution-playbooks]] - Reusable routes to customers: proof-first selling, borrowed traffic, gifts, referrals, and funnels.
 - [[tiny-tools-and-micro-apps]] - Small apps, utilities, calculators, API wrappers, and narrow software products that can be built and sold quickly.
 - [[white-label-vertical-saas]] - Niche software bundles and white-label SaaS offers sold to specific verticals with recurring pricing.
 
 ## Source coverage
 
-Initial source discovery found 72 public 2026 videos in `manifest.csv`. 17 episode notes are currently present; 55 remain in backlog.
+Initial source discovery found 72 public 2026 videos in `manifest.csv`. 26 episode notes are currently present; 46 remain in backlog.
 
 ### Ingested episode notes
 
@@ -45,6 +57,15 @@ Initial source discovery found 72 public 2026 videos in `manifest.csv`. 17 episo
 - `episodes/2026-05-19-forget-big-apps-these-tiny-tools-are-making-millions.md`
 - `episodes/2026-05-16-the-credit-card-side-hustle-no-one-talks-about.md`
 - `episodes/2026-05-14-how-anyone-can-make-10k-month-from-the-government.md`
+- `episodes/2026-05-13-the-beginner-friendly-claude-ai-side-hustle-nobody-talks-about.md`
+- `episodes/2026-05-11-the-only-playbook-you-need-to-sell-anything-online.md`
+- `episodes/2026-05-08-the-simplest-business-in-a-box-anyone-can-start.md`
+- `episodes/2026-05-06-the-most-passive-104k-m-online-business-youve-never-heard-of.md`
+- `episodes/2026-05-03-he-spends-1-hour-a-week-on-this-business.md`
+- `episodes/2026-04-28-he-makes-4k-day-with-this-weird-middleman-business.md`
+- `episodes/2026-04-24-he-makes-20k-month-on-the-weekends.md`
+- `episodes/2026-04-21-the-most-profitable-solo-business-youve-never-heard-of.md`
+- `episodes/2026-04-19-the-most-overlooked-side-hustle-you-can-start-from-home.md`
 
 ## Backlog
 

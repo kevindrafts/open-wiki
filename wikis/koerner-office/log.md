@@ -45,3 +45,9 @@
 - Added or updated topic pages for the new recurring patterns.
 - Updated `INDEX.md` and `manifest.csv`.
 
+## [2026-06-21] ingest | Nine-video Koerner Office batch
+
+- Ingested nine additional 2026 episode transcripts from 2026-05-13 through 2026-04-19.
+- Added episode notes for Claude skills products, content-to-lead funnels, nitro/iced coffee carts, rank-and-rent local lead generation, indoor golf simulator memberships, physical gifting for sales, farmers-market product launches, productized services, and corporate gifting.
+- Created or updated topic pages for recurring sales, distribution, local lead-generation, one-person business, boring business, concession, productized service, and gifting patterns.
+- Updated `INDEX.md`, `manifest.csv`, and README ingest counts.
