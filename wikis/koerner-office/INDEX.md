@@ -51,7 +51,7 @@ This index catalogs the Koerner Office open wiki: practical business ideas, AI-e
 
 ## Source coverage
 
-Initial source discovery found 72 public 2026 videos in `manifest.csv`. 49 episode notes are currently present; 10 attempted sources are transcript-blocked from this environment; 13 remain in backlog.
+Initial source discovery found 72 public 2026 videos in `manifest.csv`. 49 episode notes are currently present; 23 attempted sources are transcript-blocked from this environment; 0 remain in backlog.
 
 ### Ingested episode notes
 
@@ -111,7 +111,7 @@ See `manifest.csv` for all discovered 2026 videos and ingestion status.
 
 ### Transcript-blocked attempted sources
 
-The next ten backlog videos from 2026-03-26 through 2026-03-06 were attempted on 2026-06-21, but `youtube-transcript-api` returned `IpBlocked` and YouTube timedtext / yt-dlp subtitle downloads returned HTTP 429 from this environment. No episode notes were created because transcript-backed source notes could not be verified.
+The backlog videos from 2026-03-26 through 2026-03-06, plus the remaining thirteen rows from 2026-02-06 through 2026-01-01, were attempted on 2026-06-21. `youtube-transcript-api` returned `IpBlocked`; direct YouTube timedtext / yt-dlp subtitle checks also returned HTTP 429 for the spot-checked remaining batch. No episode notes were created for blocked videos because transcript-backed source notes could not be verified.
 
 - `2026-03-26` `CVlZdvDthOM` — How AI Makes Facebook Marketplace a Gold Mine
 - `2026-03-23` `Qv-dw57pFNA` — They Banned My $35K/Month Page So I Started a Business
@@ -123,3 +123,16 @@ The next ten backlog videos from 2026-03-26 through 2026-03-06 were attempted on
 - `2026-03-10` `CKRglRCeVDM` — How I Use Web Scraping to Find Products That Sell for 20x the Price
 - `2026-03-08` `N0NceZbY2_4` — The Easiest $3K/Day Business Nobody Is Talking About
 - `2026-03-06` `iuQ_Y-qSz78` — The Most Overlooked $13K/Day Business Anyone Can Start
+- `2026-02-06` `-kwF1zol2gQ` — The 11 Best Side Hustles for 2026
+- `2026-02-04` `oSI5FE1NeTQ` — OpenClaw is BOOMING! Do This to Profit
+- `2026-02-02` `haUsXY0RQFE` — The Most Profitable One-Man Business You’ve Never Heard Of
+- `2026-01-31` `YoD0hFqX9W8` — This Business Makes Vending Machines Look Dumb
+- `2026-01-29` `QIX0lnr3qfo` — How to Make $120k/Year with An Army of AI Influencers
+- `2026-01-27` `IPnafDDgj6o` — How I Make $35k/Month With Other People's Content (Legally)
+- `2026-01-22` `BAnpwRCDPjQ` — He Watched This Channel and Started a $2,600/Week Side Hustle
+- `2026-01-17` `Cvs_HhGD18o` — 40 Ways to Make $400,000 from Unwanted Land
+- `2026-01-14` `pwybTbHZU-w` — How to Get Your First Service Clients Paying Tens of Thousands
+- `2026-01-12` `AWesz6TJRcA` — How To Get Paid $2,500 + Monthly Checks for "Drag & Drop" AI Employees
+- `2026-01-08` `PX8Jn9vFJ38` — Companies Are Panic Paying for This Skill. Here’s How to Get In
+- `2026-01-04` `r2-1c_T6F34` — How to Build & Sell Micro Apps in 2026 (Using Only AI)
+- `2026-01-01` `FFYu4JQ7dqw` — I Tested This "Genius" Side Hustle (Is It A Goldmine?)

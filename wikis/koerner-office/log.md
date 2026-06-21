@@ -73,3 +73,10 @@
 - Created eight new topic pages: franchise ownership, OpenClaw personal AI agents, junk removal businesses, newsletter businesses, AI content research automation, snail-mail subscriptions, creative seller financing, and AI website builders.
 - Updated `manifest.csv`, `INDEX.md`, and README ingest counts.
 
+## [2026-06-21] blocked | Final thirteen-video Koerner Office transcript attempt
+
+- Attempted the remaining backlog rows from 2026-02-06 through 2026-01-01 using `youtube-transcript-api`.
+- All thirteen attempts returned `IpBlocked`; a yt-dlp subtitle check on `-kwF1zol2gQ` returned HTTP 429 from this environment.
+- Marked all thirteen sources as `transcript_blocked` in `manifest.csv` and did not create episode notes, topic pages, outputs, or post drafts without transcript-backed evidence.
+- Updated `INDEX.md` and README source counts; the initial 72-video 2026 corpus now has 49 ingested notes, 23 transcript-blocked sources, and 0 backlog rows.
+
